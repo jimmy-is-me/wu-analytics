@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: Wu Analytics
- * Plugin URI:  https://github.com/yourname/wu-analytics
  * Description: 一個簡單、輕量的 WordPress Analytics 外掛，提供 Dashboard 與設定頁面。
  * Version:     1.0.0
  * Author:      WUMETAX 巫峻旻
