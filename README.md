@@ -1,3 +1,12 @@
+=== Wu Analytics ===
+Contributors: wumetax
+Tags: analytics, dashboard, statistics
+Requires at least: 6.0
+Tested up to: 6.6
+Stable tag: 1.0.0
+License: GPL-2.0+
+License URI: https://www.gnu.org/licenses/gpl-2.0.txt
+
 一個簡單、輕量的 WordPress Analytics 外掛，提供乾淨直覺的 Dashboard 與設定頁面，方便站長快速檢視網站數據。
 
 ✨ 功能特色
